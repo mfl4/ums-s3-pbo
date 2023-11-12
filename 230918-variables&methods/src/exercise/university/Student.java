@@ -12,7 +12,7 @@ public class Student {
         String message = "The maximum gpa for this term is ";
         System.out.println(message + MAX_GPA);
     }
-    Public String getStudentName(String name){
+    public String getStudentName(String name){
         this.name = name;
         return this.name;
     }
