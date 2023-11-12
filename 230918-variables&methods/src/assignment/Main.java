@@ -6,5 +6,4 @@ public class Main {
         std1.setStudent();
         std1.showStudent();
     }
-    
 }
