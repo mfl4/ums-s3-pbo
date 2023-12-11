@@ -1,4 +1,4 @@
-package university;
+package exercise.university;
 
 public class Student {
     String name;

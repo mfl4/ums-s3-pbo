@@ -1,0 +1,1 @@
+Dari Hasil Tugas 1. Implementasikan sebuah Inheritance yang didalamnya terdapat superclass, subclass, dan main class. Tunjukan code dan outputnya, setelah itu jelaskan secara singkat program yang anda buat. Kemudian buktikan bahwa subclass mewarisi properti dari superclassnya.

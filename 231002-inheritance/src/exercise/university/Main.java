@@ -1,4 +1,4 @@
-package university;
+package exercise.university;
 
 public class Main {
     public static void main(String[] args) {

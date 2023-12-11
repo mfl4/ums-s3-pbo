@@ -1,4 +1,4 @@
-package university;
+package exercise.university;
 
 public class InterStudent extends Student{
     public InterStudent(String name, String nim, Byte age, String gender, float gpa) {
