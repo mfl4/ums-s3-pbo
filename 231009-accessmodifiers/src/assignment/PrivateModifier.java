@@ -6,6 +6,6 @@ public class PrivateModifier {
     private int z = x + y;
 
     private void multiply() {
-        System.out.println("Multiplication of " + x + ", " + y + " and " + z + " is " + (x * y * z));
+        System.out.println("Private Multiplication of " + x + ", " + y + " and " + z + " is " + (x * y * z));
     }
 }
